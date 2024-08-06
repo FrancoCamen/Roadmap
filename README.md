@@ -1,6 +1,6 @@
 # Roadmap
 
-¡Bienvenido a mi repositorio de aprendizaje en programación! Soy estudiante de Licenciatura en Sistemas de Información, actualmente cursando el tercer año (01/08/2024). Este repositorio tiene como finalidad documentar y compartir todo lo que voy aprendiendo sobre programación a lo largo de mi carrera y mi autoestudio.
+¡Bienvenido a mi repositorio de aprendizaje en programación! Soy estudiante de Licenciatura en Sistemas de Información, actualmente cursando el tercer año (01/08/2024). Este repositorio tiene como finalidad documentar y compartir todo lo que voy aprendiendo sobre programación a lo largo de mi carrera y mi autoestudio. Como guía he usado la roadmap de backend de roadmap.sh
 
 ## Finalidad del Repositorio
 
